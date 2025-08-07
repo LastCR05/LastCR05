@@ -6,21 +6,6 @@
 
 </div>
 
-## 🚀 About Me
-
-```javascript
-const abdusselam = {
-    name: "Abdusselam",
-    role: "Full Stack Developer",
-    education: "First Year Software Engineering Student",
-    location: "Istanbul, Turkey",
-    focus: "Healthcare & Startup Applications",
-    currentlyLearning: ["Rust", "Cybersecurity"],
-    passions: ["Building impactful solutions", "Self-improvement", "Fitness"],
-    funFact: "I code healthcare solutions by day, hit the gym by evening! 💪"
-};
-```
-
 ## 💼 What I Do
 
 🏥 **Healthcare Tech Specialist** - Building modern, SEO-optimized websites and applications for healthcare startups
@@ -109,30 +94,3 @@ When I'm not coding, you'll find me:
 - 📚 **Reading self-improvement books** - Always growing and learning
 - 🎯 **Planning the next project** - Turning ideas into reality
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-**"Building the future, one commit at a time"** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen)
-
-**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out for collaboration! ⭐**
-
-</div>

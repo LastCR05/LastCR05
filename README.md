@@ -68,20 +68,6 @@ const abdusselam = {
 
 *Building digital solutions that make healthcare more accessible and user-friendly*
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 ## 🎯 Current Goals
 
@@ -93,21 +79,6 @@ const abdusselam = {
 📚 Building my portfolio with impactful projects
 ```
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ## 🌱 What I'm Learning
 
